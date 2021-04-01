@@ -1,0 +1,12 @@
+C:\Users\stagius\IdeaProjects\spring-boot-postgres-vue-docker\backend\src\main\java\com\github\egnaf\spring_docker_example\rest\UserController.java
+C:\Users\stagius\IdeaProjects\spring-boot-postgres-vue-docker\backend\src\main\java\com\github\egnaf\spring_docker_example\domain\User.java
+C:\Users\stagius\IdeaProjects\spring-boot-postgres-vue-docker\backend\src\main\java\com\github\egnaf\spring_docker_example\exception\UserExistsException.java
+C:\Users\stagius\IdeaProjects\spring-boot-postgres-vue-docker\backend\src\main\java\com\github\egnaf\spring_docker_example\exception\UserNotFoundException.java
+C:\Users\stagius\IdeaProjects\spring-boot-postgres-vue-docker\backend\src\main\java\com\github\egnaf\spring_docker_example\rest\error\ErrorHandlerController.java
+C:\Users\stagius\IdeaProjects\spring-boot-postgres-vue-docker\backend\src\main\java\com\github\egnaf\spring_docker_example\transfer\UserDto.java
+C:\Users\stagius\IdeaProjects\spring-boot-postgres-vue-docker\backend\src\main\java\com\github\egnaf\spring_docker_example\Application.java
+C:\Users\stagius\IdeaProjects\spring-boot-postgres-vue-docker\backend\src\main\java\com\github\egnaf\spring_docker_example\repository\UserRepository.java
+C:\Users\stagius\IdeaProjects\spring-boot-postgres-vue-docker\backend\src\main\java\com\github\egnaf\spring_docker_example\service\UserService.java
+C:\Users\stagius\IdeaProjects\spring-boot-postgres-vue-docker\backend\src\main\java\com\github\egnaf\spring_docker_example\config\DozerConfig.java
+C:\Users\stagius\IdeaProjects\spring-boot-postgres-vue-docker\backend\src\main\java\com\github\egnaf\spring_docker_example\rest\error\ErrorResponse.java
+C:\Users\stagius\IdeaProjects\spring-boot-postgres-vue-docker\backend\src\main\java\com\github\egnaf\spring_docker_example\service\impl\UserServiceImpl.java

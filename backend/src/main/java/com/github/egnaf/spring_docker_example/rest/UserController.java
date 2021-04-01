@@ -42,7 +42,7 @@ public class UserController {
 
     @PostMapping("/users")
     public UserDto addUser(@RequestBody User user) {
-        UserDto newUser =  mapper.map(
+        UserDto newUser = mapper.map(
                 userService.addUser(user.getNickname(), user.getEmail(), user.getPassword()), UserDto.class);
         log.debug(newUser.toString());
         return newUser;

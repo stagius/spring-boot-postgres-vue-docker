@@ -1,0 +1,3 @@
+com\github\egnaf\spring_docker_example\ApplicationTest.class
+com\github\egnaf\spring_docker_example\service\impl\UserServiceImplTest.class
+com\github\egnaf\spring_docker_example\repository\UserRepositoryTest.class
